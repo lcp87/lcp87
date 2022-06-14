@@ -1,8 +1,7 @@
 lcp87/README.md
 
 - Hi, I´m Laura 👋
-- 🔍 I’m currently looking for a job as a data analyst
-- 🔍 I’m biologist and junior data analyst 
+- 🔍 I’m currently looking for a job as a junior data analyst 
 - ❤️💻 I love researching and investigating in data
 - 👩🏽‍🎓 I’ve learned Data Analytics in Bootcamp @ Adalab
 
