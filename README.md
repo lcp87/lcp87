@@ -4,4 +4,3 @@
 - 👩🏽‍🎓 I’ve learned Data Analytics in Bootcamp @ Adalab
 - 💌 How to reach me: laurapeinadodata@gmail.com
 - ⚡ Tableau : https://public.tableau.com/app/profile/laura.c.peinado
-- ☑️ LinkedIn : https://www.linkedin.com/in/lauracpeinado/
